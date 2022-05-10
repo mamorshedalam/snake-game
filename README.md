@@ -13,8 +13,8 @@ The game is made with Vanilla Javascript.
 
 #### Learning:
 
- - animation with canvas
- - use fo js class
- - dom key event handling
+ - Animation with canvas
+ - Use of JS class
+ - DOM key-event handling
 
 live link : https://mamorshedalam.github.io/snake-game/
