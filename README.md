@@ -4,6 +4,27 @@ The snake game is nostalgic for 90s kids, who used to play the Snake game on Nok
 The game is made with Vanilla Javascript.
 
 
+### Installation
+
+1. Clone repository
+
+```bash
+https://github.com/mamorshedalam/snake-game.git
+```
+
+2. Go to the folder
+
+```bash
+cd snake-game
+```
+
+5. Open browser
+
+```bash
+double click index.html
+```
+
+
 #### Technology:
 
  - HTML5
