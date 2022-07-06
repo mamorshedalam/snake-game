@@ -18,7 +18,7 @@ https://github.com/mamorshedalam/snake-game.git
 cd snake-game
 ```
 
-5. Open browser
+3. Open browser
 
 ```bash
 double click index.html
